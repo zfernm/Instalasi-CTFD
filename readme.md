@@ -142,5 +142,14 @@ http://<IP_SERVER>:8000/
 
 ---
 
+## Output
+
+
+![Tampilan_Terminal_Instalasi_CTFD](<Tampilan_Terminal_Instalasi_CTFD.png>)
+![Tampilan Browser_CTFD](<Tampilan Browser_CTFD.png>)
+
+
+---
+
 ## Sosial Media
 [LINKEDIN](https://www.linkedin.com/in/samuel-hamonangan-s-099604255/)
