@@ -143,6 +143,4 @@ http://<IP_SERVER>:8000/
 ---
 
 ## Sosial Media
-[TELEGRAM](https://t.me/zfernm)
 [LINKEDIN](https://www.linkedin.com/in/samuel-hamonangan-s-099604255/)
-[INSTAGRAM](https://www.instagram.com/samuellhsss)
